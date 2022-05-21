@@ -1742,27 +1742,77 @@ break
                 for (let i of anu) {
                     await sleep(1500)
                     let btn = [{
-                                urlButton: {
-                                    displayText: 'Script🔖',
+                                                                callButton: {
+
+                                    displayText:  Contact Me ,
+
+                                    phoneNumber: `${ownernomer}`
+
+                                }
+
+                            }, {
+
+                                quickReplyButton: {
+
+                                    displayText:  Menu ,
+
+                                    id:  menu 
+urlButton: {
+
+                                    displayText:  Script🔖 ,
+
                                     url: `${sc}`
+
                                 }
+
                             }, {
-                                urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `${myweb}`
+
+                                callButton: {
+
+                                    displayText:  Contact Me ,
+
+                                    phoneNumber: `${ownernomer}`
+
                                 }
+
                             }, {
+
                                 quickReplyButton: {
-                                    displayText: '🎀Menu🎀',
-                                    id: 'menu'
+
+                                    displayText:  Menu ,
+
+                                    id:  menu 
+
                                 }
+
                             }, {
+
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
-                                    id: 'owner'
+
+                                    displayText:  👤Owner👤 ,
+
+                                    id:  owner 
+
                                 }
+
                             }]
-                      let txt = `「 GOJO-SATORU HERE🎉 」\n\n${text}`
+
+                      let txt = `「 FLASH HERE 🎉」\n\n${text}`
+                                }
+
+                            }, {
+
+                                quickReplyButton: {
+
+                                    displayText:  👤Owner👤 ,
+
+                                    id:  owner 
+
+                                }
+
+                            }]
+
+                      let txt = `「 FLASH HERE 🎉」\n\n${text}`
                       GojoMdNx.send5ButImg(i, txt, GojoMdNx.user.name, global.thumb, btn)
                     }
                 reply(`Successful Sending Broadcast To ${anu.length} Group(s)`)
@@ -1777,26 +1827,46 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Script🔖',
+
+                                    displayText:  Script🔖 ,
+
                                     url: `${sc}`
+
                                 }
+
                             }, {
-                                urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `${myweb}`
+
+                                callButton: {
+
+                                    displayText:  Contact Me ,
+
+                                    phoneNumber: `${ownernomer}`
+
                                 }
+
                             }, {
+
                                 quickReplyButton: {
-                                    displayText: '🎀Menu🎀',
-                                    id: 'menu'
+
+                                    displayText:  Menu ,
+
+                                    id:  menu 
+
                                 }
+
                             }, {
+
                                 quickReplyButton: {
-                                    displayText: '👤Owner👤',
-                                    id: 'owner'
+
+                                    displayText:  👤Owner👤 ,
+
+                                    id:  owner 
+
                                 }
+
                             }]
-                      let txt = `「 GOJO-SATORU HERE 🎉」\n\n${text}`
+
+                      let txt = `「 FLASH HERE 🎉」\n\n${text}`
                       GojoMdNx.send5ButImg(yoi, txt, GojoMdNx.user.name, global.thumb, btn)
 		}
 		reply('Broadcast Success')
@@ -3281,7 +3351,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Shashi burina thaicho🎉
+┌┤✑  Flash online now🎉
 ││✑  🐦🖐️!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
@@ -3297,11 +3367,17 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    │✑  Please Select The Button Below
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
-                                urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `${myweb}`
+
+                                callButton: {
+
+                                    displayText:  Contact Me ,
+
+                                    phoneNumber: `${ownernomer}`
+
                                 }
+
                             }, {
+
                             	urlButton: {
                                 displayText: 'Script🔖',
                                     url: `${sc}`
@@ -3342,7 +3418,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 ┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Daijobka sempai?😄
+┌┤✑  How are you?😄
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
@@ -3357,11 +3433,17 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
    │✑  Please Select The Button Below
    └───────────────┈ ⳹`,
                             hydratedButtons: [{
-                                urlButton: {
-                                    displayText: 'YouTube📍',
-                                    url: `${myweb}`
+
+                                callButton: {
+
+                                    displayText:  Contact Me ,
+
+                                    phoneNumber: `${ownernomer}`
+
                                 }
+
                             }, {
+
                             	urlButton: {
                                 displayText: 'Script🔖',
                                     url: `${sc}`
