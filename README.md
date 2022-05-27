@@ -4,7 +4,7 @@
 
 ## ALPHA Multi-Device
 
-> [Automated Multi Device whatsapp bot edited](https://github.com/I-am-ALPHA/Multi-Device) by [I-am-ALPHA](https://github.com/I-am-ALPHA)
+> [Automated Multi Device whatsapp bot edited](https://github.com/I-am-ALPHA/Multi-Device) by [ALPHA](https://github.com/I-am-ALPHA)
 
 > If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/I-am-ALPHA/Multi-Device/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
