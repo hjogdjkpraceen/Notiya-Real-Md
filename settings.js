@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['+94703086910']
 global.premium = ['+94703086910']
-global.ownernomer = '+94703086910'
+global.ownernomer = '+447441453692'
 global.ownername = 'Notiya Real'
 global.botname = 'ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴇᴅɪᴛɪᴏɴ'
 global.footer = '© AlphaInc.'
