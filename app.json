@@ -1,8 +1,8 @@
 {
-  "name": "Gojo-Satoru",
+  "name": "ALPHA Multi-Device",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/nexusNw/Gojo-Satoru",
-  "logo": "https://telegra.ph/file/4c2c0174e86ac3bac2ba8.jpg",
+  "repository": "https://github.com/I-am-ALPHA/Multi-Device",
+  "logo": "https://i.ibb.co/bH9LMtG/Whats-App-Image-2022-05-27-at-3-11-24-PM.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
