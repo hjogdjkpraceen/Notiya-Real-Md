@@ -19,20 +19,20 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94703086910']
-global.premium = ['+94703086910']
+global.owner = ['+94786216843']
+global.premium = ['+94786216843']
 global.ownernomer = '+447441453692'
-global.ownername = 'Notiya Real'
-global.botname = 'ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴇᴅɪᴛɪᴏɴ'
-global.footer = '© AlphaInc.'
-global.ig = 'https://github.com/I-am-ALPHA'
-global.region = 'Sri Lanka, Central Province, Kandy'
-global.sc = 'https://github.com/I-am-ALPHA/Multi-Device'
-global.myweb = 'https://instagram.com/thishaxkya'
+global.ownername = 'ɴᴏͥᴛɪͣʏͫᴀ ʀᴇᴀʟ'
+global.botname = 'ɴᴏᴛɪʏᴀ ʀᴇᴀʟ - ᴍᴅ-ʙᴏᴛ'
+global.footer = 'ɴᴏᴛɪʏᴀ-ᴍᴅ.'
+global.ig = 'https://github.com/NotiyaReal'
+global.region = 'Sri Lanka, Central Province, Polonnaruwa'
+global.sc = 'https://github.com/NotiyaReal/Multi-Device'
+global.myweb = 'https://chat.whatsapp.com/KLs2vFsPDFu0jgmvHKC2Xf'
 global.packname = 'ᴀʟᴘʜᴀ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ᴇᴅɪᴛɪᴏɴ'
-global.author = 'ALPHA'
+global.author = 'ɴᴏᴛɪʏᴀ ʀᴇᴀʟ'
 global.sessionName = 'session'
-global.prefa = ['!','.']
+global.prefa = ['!','.'🙂'🤭'😁']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
