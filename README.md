@@ -4,14 +4,14 @@
 
 ## Notiya-Real-Device
 
-> [Automated Multi Device whatsapp bot edited](https://github.com/I-am-ALPHA/Multi-Device) by [ALPHA](https://github.com/I-am-ALPHA)
+> [Automated Multi Device whatsapp bot edited](https://github.com/NotiyaReal-Md) by [NOTIYA](https://github.com/NotiyaReal)
 
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/I-am-ALPHA/Multi-Device/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/NotiyaReal/Multi-Device/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
 </br>
 
-<a href="https://github.com/I-am-ALPHA"><img title="Author" src="https://img.shields.io/badge/Author-ALPHA-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/NotiyaReal"><img title="Author" src="https://img.shields.io/badge/Author-NotiyaReal-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 
 ---
 </details>
