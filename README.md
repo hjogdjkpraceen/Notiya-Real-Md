@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
 </p>
 
-## ALPHA Multi-Device
+## Notiya-Real-Device
 
 > [Automated Multi Device whatsapp bot edited](https://github.com/I-am-ALPHA/Multi-Device) by [ALPHA](https://github.com/I-am-ALPHA)
 
