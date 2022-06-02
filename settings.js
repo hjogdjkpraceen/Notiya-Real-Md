@@ -23,11 +23,11 @@ global.owner = ['+94786216843']
 global.premium = ['+94786216843']
 global.ownernomer = '+94786216843'
 global.ownername = 'Notiya Real'
-global.botname = 'NotiyaReal - M-D'
+global.botname = 'NotiyaReal-Md'
 global.footer = 'NotiyaReal'
-global.ig = 'https://github.com/NotiyaReal'
+global.ig = 'https://github.com/NotiyaReal/Notiya-Real-Md'
 global.region = 'Sri Lanka, Central Province, Polonnaruwa'
-global.sc = 'https://github.com/NotiyaReal/Multi-Device'
+global.sc = 'https://github.com/NotiyaReal/Notiya-Real-Md'
 global.myweb = 'https://chat.whatsapp.com/KLs2vFsPDFu0jgmvHKC2Xf'
 global.packname = 'Notiya Multy-Device Edition'
 global.author = 'ɴᴏᴛɪʏᴀ ʀᴇᴀʟ'
@@ -36,13 +36,13 @@ global.prefa = ['!','.']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    admin: '🚫ඇඩ්මින් Command භාවිතය ඔබට තහනම්! @ɴᴏᴛɪʏᴀ ʀᴇᴀʟ',
+    botAdmin: 'මා මෙහි Admin කෙනෙකු නොවේ!',
+    owner: 'එය භාවිතකල හැක්කෙ බොට් අයිතිකරුට පමණි!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    bot: 'එය භාවිතකල හැක්කෙ බොට් අයිතිකරුට පමණි!',
+    wait: 'රැදී සිටින්න...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
