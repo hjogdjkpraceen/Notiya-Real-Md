@@ -1,7 +1,7 @@
 {
-  "name": "ALPHA Multi-Device",
+  "name": "NOTIYA Multi-Device",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/I-am-ALPHA/Multi-Device",
+  "repository": "https://github.com/NotiyaReal/Notiya-Real-Md",
   "logo": "https://i.ibb.co/bH9LMtG/Whats-App-Image-2022-05-27-at-3-11-24-PM.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
