@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              𝙶𝙾𝙹𝙾-𝙿𝚁𝙰𝚅𝚆𝙴𝚈𝙰 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,16 +19,16 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94786216843']
-global.premium = ['+94786216843']
-global.ownernomer = '+94786216843'
-global.ownername = 'Notiya Real'
-global.botname = 'NotiyaReal-Md'
-global.footer = 'NotiyaReal'
+global.owner = ['+94763572554']
+global.premium = ['+94763572554']
+global.ownernomer = '+94763572554'
+global.ownername = '🎖️͟͞᭕𝑯ᴀᴡ⃝⃕ʟᴇ۞͢͠࿔⃝ප්‍රවියා᭄™͢🤹'
+global.botname = '🎖️͟͞᭕𝑯ᴀᴡ⃝⃕ʟᴇ۞͢͠࿔⃝ප්‍රවියා᭄™͢🤹'
+global.footer = '🎖️͟͞᭕𝑯ᴀᴡ⃝⃕ʟᴇ۞͢͠࿔⃝ප්‍රවියා᭄™͢🤹'
 global.ig = 'https://github.com/NotiyaReal/Notiya-Real-Md'
 global.region = 'Sri Lanka, Central Province, Polonnaruwa'
 global.sc = 'https://github.com/NotiyaReal/Notiya-Real-Md'
-global.myweb = 'https://chat.whatsapp.com/KLs2vFsPDFu0jgmvHKC2Xf'
+global.myweb = 'https://chat.whatsapp.com/IcpbcshZDmQHgnJL8hYNkQ'
 global.packname = 'Notiya Multy-Device Edition'
 global.author = 'ɴᴏᴛɪʏᴀ ʀᴇᴀʟ'
 global.sessionName = 'session'
