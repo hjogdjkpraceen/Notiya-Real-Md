@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['+94763572554']
 global.premium = ['+94763572554']
-global.ownernomer = '+94763572554'
+global.ownernomer = ['+94763572554']
 global.ownername = '🎖️͟͞᭕𝑯ᴀᴡ⃝⃕ʟᴇ۞͢͠࿔⃝ප්‍රවියා᭄™͢🤹'
 global.botname = '🎖️͟͞᭕𝑯ᴀᴡ⃝⃕ʟᴇ۞͢͠࿔⃝ප්‍රවියා᭄™͢🤹'
 global.footer = '🎖️͟͞᭕𝑯ᴀᴡ⃝⃕ʟᴇ۞͢͠࿔⃝ප්‍රවියා᭄™͢🤹'
@@ -30,7 +30,7 @@ global.region = 'Sri Lanka, Central Province, Polonnaruwa'
 global.sc = 'https://github.com/NotiyaReal/Notiya-Real-Md'
 global.myweb = 'https://chat.whatsapp.com/IcpbcshZDmQHgnJL8hYNkQ'
 global.packname = 'Notiya Multy-Device Edition'
-global.author = 'ɴᴏᴛɪʏᴀ ʀᴇᴀʟ'
+global.author = '🎖️͟͞᭕𝑯ᴀᴡ⃝⃕ʟᴇ۞͢͠࿔⃝ප්‍රවියා᭄™͢🤹'
 global.sessionName = 'session'
 global.prefa = ['!','.']
 global.sp = '⭔'
