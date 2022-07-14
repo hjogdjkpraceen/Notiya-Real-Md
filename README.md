@@ -1,33 +1,10 @@
-<p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
-</p>
-
-## Notiya-Real-Multi-Device
-
-> [Automated Multi Device whatsapp bot edited](https://github.com/NotiyaReal-Md) by [NOTIYA](https://github.com/NotiyaReal)
-
-> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/NotiyaReal/Multi-Device/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
+# Notiya Real
 
 
-</br>
-
-<a href="https://github.com/NotiyaReal"><img title="Author" src="https://img.shields.io/badge/Author-NotiyaReal-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
-
----
-</details>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐍𝐎𝐓𝐈𝐘𝐀+𝐑𝐄𝐀𝐋+𝐖𝐀+𝐁𝐎𝐓.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐍𝐎𝐓𝐈𝐘𝐀+𝐑𝐄𝐀𝐋;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂)](https://git.io/typing-svg)
 
 
-<!-- Start via Heroku -->
-<b><details><summary>Start via Heroku</summary></b>
-	
-<div align="center">	
+[![Deploy Button](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/NotiyaReal/Notiya-Real-Md)
 
-## Scan QR In Your Whatsapp From
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Alanx09/Md-QR-Scanner)
-	
-## Deploy The Bot From
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-</div>	
-
-</details>
+💻[Qr Generet](https://replit.com/@nexusNw/Md-Scanner?outputonly=1&lite=1)
